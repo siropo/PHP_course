@@ -1,0 +1,72 @@
+/*************************************************************
+Reset
+************************************************************/
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, tbody,
+tfoot, thead, tr, th, td, article, aside, footer, header, hgroup, nav, section {
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  background: transparent;
+  margin: 0;
+  padding: 0; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+ol, ul {
+  list-style: none; }
+
+img {
+  max-width: 100%;
+  border: none; }
+
+/*************************************************************
+Globals
+************************************************************/
+body {
+  font: normal normal 62.5% Georgia, helvetica, sans-serif;
+  line-height: 1.1; }
+
+a {
+  text-decoration: none; }
+
+body {
+  font-size: 14px;
+  font-size: 0.875rem; }
+
+.wrapper {
+  margin: 50px auto 0 auto;
+  padding: 30px 20px;
+  width: 440px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  border: 1px solid #dddddd;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-family: 'Verdana', 'Trebuchet MS', serif; }
+  .wrapper .login-info {
+    padding: 10px 0; }
+    .wrapper .login-info span {
+      font-weight: 700;
+      color: red; }
+  .wrapper .btn-login {
+    margin-left: 104px; }
+  .wrapper .alert {
+    display: block; }
+  .wrapper form {
+    padding: 20px 0; }
+  .wrapper form label {
+    width: 100px;
+    display: inline-block; }
+  .wrapper .list-file {
+    margin: auto;
+    padding: 10px;
+    width: 440px; }
+    .wrapper .list-file a {
+      text-decoration: none;
+      color: orange; }
+  .wrapper .menu {
+    text-align: right; }

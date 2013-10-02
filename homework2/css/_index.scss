@@ -1,0 +1,59 @@
+a {
+  text-decoration: none;
+}
+
+body {
+  @include font-size(14);
+}
+
+.wrapper {
+  margin: 50px auto 0 auto;
+  padding: 30px 20px;
+  width: 440px;
+  @include border-radius(5px);
+  @include border(#ddd);
+  @include font(0, 14);
+
+  .login-info {
+    padding: 10px 0;
+    span {
+      font-weight: 700;
+      color: red;
+    }
+  }
+
+  .btn-login {
+    margin-left: 104px;
+  }
+
+  .alert {
+    display: block;
+  }
+
+  form {
+    padding: 20px 0;
+  }
+
+  form label {
+    width: 100px;
+    display: inline-block;
+  }
+
+  .list-file {
+    margin: auto;
+    padding: 10px;
+    width: 440px;
+
+    a {
+      text-decoration: none;
+      color: orange;
+    }
+
+  }
+
+  .menu {
+    text-align: right;
+  }
+}
+
+
