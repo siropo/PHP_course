@@ -8,7 +8,7 @@ $GLOBALS['dbConnection'] = dbConnect();
 
 function dbConnect()
 {
-    $connection = mysqli_connect('localhost', 'root', 'ot123kralev', 'post_message_board') or die('Database error');
+    $connection = mysqli_connect('localhost', 'root', '', 'post_message_board') or die('Database error');
     mysqli_query($connection, 'SET NAMES utf8');
 
     return $connection;
