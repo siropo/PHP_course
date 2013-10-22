@@ -1,0 +1,23 @@
+/*************************************************************
+Reset
+************************************************************/
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, tbody,
+tfoot, thead, tr, th, td, article, aside, footer, header, hgroup, nav, section {
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  background: transparent;
+  margin: 0;
+  padding: 0; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+ol, ul {
+  list-style: none; }
+
+img {
+  max-width: 100%;
+  border: none; }

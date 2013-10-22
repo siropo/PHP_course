@@ -1,0 +1,205 @@
+﻿; INFORMATION:
+; enter = space+"|"
+
+; engine system strings
+SYSENG0001	Настройки
+SYSENG0002	Дисплей
+SYSENG0003	Звук
+SYSENG0004	Използвай хардуерно ускорение
+SYSENG0005	Видеокарта:
+SYSENG0006	Цветове:
+SYSENG0007	В прозорец
+SYSENG0008	Multisample type:
+SYSENG0009	Use hardware T&&L
+SYSENG0010	Повече...
+SYSENG0011	Звуково устр.
+SYSENG0012	Доп.настройки
+SYSENG0013	Съвет: Тези настройки се използват при решаване на проблеми. Ако играта работи нормално, моля не пипайте настоящите настройки.
+SYSENG0014	Настройка на текстурите
+SYSENG0015	Форсирай 16bit текстури
+SYSENG0016	Force texture subdivision
+SYSENG0017	16 bit
+SYSENG0018	32 bit
+SYSENG0019	[no sound]
+SYSENG0020	none
+SYSENG0021	samples
+SYSENG0022	Изглаждане:
+SYSENG0023	x
+SYSENG0024	Не показвай прозореца повече
+SYSENG0025	This game requires 3D acceleration which doesn't seem to be supported by your video card. Please make sure you have a 3D accelerated video card and that you have the latest video drivers installed.
+SYSENG0026	This game requires Microsoft DirectX 8.0 or later which is not installed on your computer. Please install DirectX 8.0 or later and try again. Do you want to display the DirectX download page now?
+SYSENG0027	ЗАРЕЖДАНЕ...
+SYSENG0028	Играта изисква звукова карта, с каквато изглежда не разполагате. Моля, проверете имате ли звукова карта и че сте инсталирали най-новите аудио драйвъри.
+
+SYSENG0030	Достъпност
+SYSENG0031	Тези настройките са предназначени за играчи с увреждания.
+SYSENG0032	Изпрати писмен текст към четящото устройство
+SYSENG0033	Прочитане на надписи
+SYSENG0034	Четене на говорими линии
+SYSENG0035	Четене на напечатани символи
+SYSENG0036	Покажи активните точки с комбинация от бутони
+SYSENG0037	Премести мишката върху активната точка
+SYSENG0038	(Използвай Ctrl+Tab и Ctrl+Shift+Tab за избиране на активните точки)
+SYSENG0039	Позволи пауза на играта с помощта на Ctrl+Space
+SYSENG0040	Играта е на пауза. Натисни Ctrl+Space за да продължиш.
+
+SYSENG0050	За...
+SYSENG0051	Powered by Wintermute Engine
+
+; game explorer strings
+SYSENG0060	Игра
+SYSENG0061	Настройки
+SYSENG0062	Website 1
+SYSENG0063	http://www.bigfishgames.com
+SYSENG0064	Website 2
+SYSENG0065	http://www.petagame.com
+
+SYSENG0070	Запази пропорциите
+SYSENG0071	Използвай резолюцията на екрана
+
+SYSENG0100	Ок
+SYSENG0101	Откажи
+
+; menu
+hud0000	<empty>
+hud0025	Настройки
+hud0026	Сила на звука
+hud0027	Сила на музиката
+hud0028	Сила на ефектите
+hud0029	/SYSENG0100/
+hud0030	/SYSENG0101/
+hud0004	Зареди игра
+hud0005	/SYSENG0101/
+hud0006	Главно меню
+hud0007	Продължи играта
+hud0008	/hud0004/
+hud0009	Запази играта
+hud0010	/hud0025/
+hud0011	Обучение
+hud0012	запази и излез
+hud0013	Да
+hud0014	Не
+hud0015	/SYSENG0100/
+hud0016	/hud0009/
+hud0017	/SYSENG0101/
+hud0018	Нова игра
+hud0019	/hud0004/
+hud0020	Зареди нивото
+hud0021	/hud0025/
+hud0022	/hud0011/
+hud0023	Автори
+hud0024	Изход
+hud0071	Продължи играта
+
+; credit
+credit0000	Дизайн
+credit0001	Ebrahim Masjediyan
+credit0002	Hosein Masbough
+credit0003	Графика
+credit0004	Fatemeh Kashfi
+credit0005	Програмиране
+credit0006	Hosein Masbough
+credit0007	Анимация
+credit0008	Ebrahim Masjediyan
+credit0009	Музика
+credit0010	Payam Azadi
+credit0011	Ali Lotfalikhani
+credit0012	Powered by
+credit0013	Превод на български: Adventurers Community
+
+
+
+; tutorial
+hud0031	Основи
+hud0032	Инвентар
+hud0033	Скрити обекти
+hud0034	Показва скритите обекти
+hud0035	Части от предмети, които трябва да се намерят
+hud0036	(Активира се през 60 секунди)
+hud0037	Постави предмета в инвентара
+hud0038	Вземи предмета от инвентара
+hud0039	Комбинирай предметите
+hud0040	Покажи главното меню
+hud0041	Покажи картата
+hud0042	Игрови персонаж
+hud0043	(Активира се през 2 минути)
+hud0044	Прескочи пъзела
+hud0045	Ръководство за решаване на пъзелите
+hud0046	(Активира се през 4 минути)
+hud0047	Покажи картата
+hud0048	(Двоен ляв клик с мишката за ускоряване)
+hud0049	Нужен предмет за задачата
+hud0050	Смени сцената
+hud0051	Вземи предмета
+hud0052	Разговаряй
+hud0053	Разгледай
+hud0054	/hud0048/
+hud0055	Върви/Изследвай зоната
+
+; items
+itm0000	Част от часовник
+itm0001	Червей
+itm0002	Магнит
+itm0003	Червей+Магнит
+itm0004	Торба
+itm0005	Инструкция за транспортьора
+itm0006	Въдица
+itm0007	Очила+Бастун
+itm0008	Капан за мишки
+itm0009	Пътна карта
+itm0010	Риба
+itm0011	Пълна кофа
+itm0012	Празна кофа
+itm0013	Бушон
+itm0014	Монети
+itm0015	Меч
+itm0016	Телескоп
+itm0017	Прашка
+itm0018	Скъсана хартия
+itm0019	Парче хартия
+itm0020	Хартия
+itm0021	Птица
+itm0022	Птица+Прашка
+itm0023	Козметика
+itm0024	Инструменти
+itm0025	Тенджера
+itm0026	Пера
+itm0027	Снимка на крадеца
+itm0028	Камера
+itm0029	Чинии
+itm0030	Снимка на пиано
+
+; message box
+hud0056	Желаете ли да гледате обучението?
+hud0057	За да прегледате обучението, влезте в главното меню.
+hud0069	Наистина ли искате да излезете от играта?
+hud0072	Това ще презапише текущия ви автосейв. Искате ли да продължите?
+hud0003	Искате да презапишете стария си запис?
+hud0001	Наистина ли желаете да излезнете? |Играта ще се запази автоматично.
+
+; HUD
+hud0058	  Ляв клик : надолу |  Десен клик : Нагоре
+hud0059	/hud0058/
+hud0060	/hud0058/
+hud0064	/hud0058/
+hud0061	  Ляв клик : Избор - Откажи
+hud0067	/hud0061/
+hud0063	/hud0061/
+hud0065	/hud0061/
+hud0062	  Ляв клик : Избор - Откажи |  Десен клик : Завърти
+hud0066	/hud0062/
+hud0068	/hud0062/
+
+
+hud0070	© 2011 SHABAN All rights reserved
+
+
+hud0074	Congratulation! |You have completed the demo version of Shaban. |You can play further in the full version.
+
+hud0075	Назад
+hud0076	Пропусни
+hud0077	Помощ
+hud0078	Карта
+hud0079	Меню
+hud0080	Съвет
+hud0081	Автосейв 
